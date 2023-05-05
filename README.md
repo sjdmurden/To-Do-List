@@ -1,3 +1,5 @@
 # To-Do-List
 
-![2023-05-05 (1)](https://user-images.githubusercontent.com/109233807/236452344-2cfa5468-d5cb-4a6b-bc4a-b49766b4974d.png)
+
+<img src="https://user-images.githubusercontent.com/109233807/232151206-f5b2b644-4f7f-46dc-9263-18bb1bc3c482.png" width="700" height="350" />
+
